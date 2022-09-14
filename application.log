@@ -1,0 +1,153 @@
+14/09/2022 12:38:42 devpinoyLogger Driver SetUp through Before tag
+14/09/2022 12:38:42 devpinoyLogger SetUp driver
+14/09/2022 12:38:42 devpinoyLogger Config Properties file loaded
+14/09/2022 12:38:46 devpinoyLogger Chrome driver called
+14/09/2022 12:38:46 devpinoyLogger Driver is set
+14/09/2022 12:38:46 devpinoyLogger Driver Set through Before tag
+14/09/2022 12:38:46 devpinoyLogger Returning driver
+14/09/2022 12:38:46 devpinoyLogger Entering String url
+14/09/2022 12:38:47 devpinoyLogger Returning driver
+14/09/2022 12:38:57 devpinoyLogger Returning driver
+14/09/2022 12:38:57 devpinoyLogger Returning driver
+14/09/2022 12:38:57 devpinoyLogger Article Number: 0 Headline:Live Queue grows to see Queen’s lying-in-state as coffin set to move to Westminster Hall   updates
+14/09/2022 12:38:57 devpinoyLogger Returning driver
+14/09/2022 12:38:57 devpinoyLogger Entering String url
+14/09/2022 12:39:02 devpinoyLogger Returning driver
+14/09/2022 12:39:02 devpinoyLogger Similarity Value: 0.62
+14/09/2022 12:39:02 devpinoyLogger News Source: ABC
+14/09/2022 12:39:02 devpinoyLogger News Headline: Those viewing Queen Elizabeth II's coffin will get numbered ...
+14/09/2022 12:39:02 devpinoyLogger Similarity Value: 0.7
+14/09/2022 12:39:02 devpinoyLogger News Source: The Mirror
+14/09/2022 12:39:02 devpinoyLogger News Headline: Queue to see Queen's coffin: All questions answered as final details and map unveiled
+14/09/2022 12:39:02 devpinoyLogger Similarity Value: 0.6
+14/09/2022 12:39:02 devpinoyLogger News Source: The Telegraph
+14/09/2022 12:39:02 devpinoyLogger News Headline: Queen Elizabeth II's coffin arrives for monarch's final night at ...
+14/09/2022 12:39:03 devpinoyLogger Similarity Value: 0.6
+14/09/2022 12:39:03 devpinoyLogger News Source: BBC
+14/09/2022 12:39:03 devpinoyLogger News Headline: Queen Elizabeth II: Queen's coffin arrives at Buckingham Palace
+14/09/2022 12:39:03 devpinoyLogger Similarity Value: 0.65
+14/09/2022 12:39:03 devpinoyLogger News Source: ITV Hub
+14/09/2022 12:39:03 devpinoyLogger News Headline: The woman who plans to be first in line to the see the Queen's ...
+14/09/2022 12:39:03 devpinoyLogger Similarity Value: 0.0
+14/09/2022 12:39:03 devpinoyLogger News Source: Daily Mail
+14/09/2022 12:39:03 devpinoyLogger News Headline: Recap: The Queen's coffin arrives at Buckingham Palace
+14/09/2022 12:39:03 devpinoyLogger Similarity Value: 0.7
+14/09/2022 12:39:03 devpinoyLogger News Source: Manchester Evening News
+14/09/2022 12:39:03 devpinoyLogger News Headline: LIVE as hundreds queue to see Queen's coffin lying in state
+14/09/2022 12:39:03 devpinoyLogger Similarity Value: 0.69
+14/09/2022 12:39:03 devpinoyLogger News Source: Metro
+14/09/2022 12:39:03 devpinoyLogger News Headline: Queen death: People arrive to see Queen lying in state two days early
+14/09/2022 12:39:03 devpinoyLogger Similarity Value: 0.56
+14/09/2022 12:39:03 devpinoyLogger News Source: The Telegraph
+14/09/2022 12:39:03 devpinoyLogger News Headline: As it happened: King Charles and Royal family hold vigil for ...
+14/09/2022 12:39:03 devpinoyLogger Returning driver
+14/09/2022 12:39:03 devpinoyLogger tearDown the Driver and browser completely
+14/09/2022 12:39:03 devpinoyLogger TearDown driver
+14/09/2022 12:39:03 devpinoyLogger Driver Closed
+14/09/2022 12:39:03 devpinoyLogger Driver SetUp through Before tag
+14/09/2022 12:39:03 devpinoyLogger SetUp driver
+14/09/2022 12:39:03 devpinoyLogger Config Properties file loaded
+14/09/2022 12:39:06 devpinoyLogger Chrome driver called
+14/09/2022 12:39:06 devpinoyLogger Driver is set
+14/09/2022 12:39:06 devpinoyLogger Driver Set through Before tag
+14/09/2022 12:39:06 devpinoyLogger Returning driver
+14/09/2022 12:39:06 devpinoyLogger Entering String url
+14/09/2022 12:39:08 devpinoyLogger Returning driver
+14/09/2022 12:39:18 devpinoyLogger Returning driver
+14/09/2022 12:39:18 devpinoyLogger Returning driver
+14/09/2022 12:39:18 devpinoyLogger Article Number: 1 Headline:Live Energy bill help for businesses will start from October even if payments have to be backdated, says No 10  UK politics
+14/09/2022 12:39:18 devpinoyLogger Returning driver
+14/09/2022 12:39:18 devpinoyLogger Entering String url
+14/09/2022 12:39:23 devpinoyLogger Returning driver
+14/09/2022 12:39:23 devpinoyLogger Similarity Value: 0.58
+14/09/2022 12:39:23 devpinoyLogger News Source: UK in a changing Europe
+14/09/2022 12:39:23 devpinoyLogger News Headline: What have we learned from the first week of ‘Trussonomics’?
+14/09/2022 12:39:24 devpinoyLogger Similarity Value: 0.4
+14/09/2022 12:39:24 devpinoyLogger News Source: Financial Times
+14/09/2022 12:39:24 devpinoyLogger News Headline: Live news: German government in talks to take majority stake ...
+14/09/2022 12:39:24 devpinoyLogger Similarity Value: 0.55
+14/09/2022 12:39:24 devpinoyLogger News Source: iNews
+14/09/2022 12:39:24 devpinoyLogger News Headline: When is the energy announcement? What we know about cost ...
+14/09/2022 12:39:24 devpinoyLogger Similarity Value: 0.48
+14/09/2022 12:39:24 devpinoyLogger News Source: This is Money
+14/09/2022 12:39:24 devpinoyLogger News Headline: UK Unemployment rate falls: LIVE news
+14/09/2022 12:39:24 devpinoyLogger Similarity Value: 0.53
+14/09/2022 12:39:24 devpinoyLogger News Source: The Telegraph
+14/09/2022 12:39:24 devpinoyLogger News Headline: Pound and stocks plummet as US inflation raises recession ...
+14/09/2022 12:39:24 devpinoyLogger Similarity Value: 0.65
+14/09/2022 12:39:24 devpinoyLogger News Source: Daily Express
+14/09/2022 12:39:24 devpinoyLogger News Headline: Royal Family: Camilla brought 'new energy' to Charles as William tipped to be King
+14/09/2022 12:39:24 devpinoyLogger Returning driver
+14/09/2022 12:39:24 devpinoyLogger tearDown the Driver and browser completely
+14/09/2022 12:39:24 devpinoyLogger TearDown driver
+14/09/2022 12:39:24 devpinoyLogger Driver Closed
+14/09/2022 12:39:24 devpinoyLogger Driver SetUp through Before tag
+14/09/2022 12:39:24 devpinoyLogger SetUp driver
+14/09/2022 12:39:24 devpinoyLogger Config Properties file loaded
+14/09/2022 12:39:27 devpinoyLogger Chrome driver called
+14/09/2022 12:39:27 devpinoyLogger Driver is set
+14/09/2022 12:39:27 devpinoyLogger Driver Set through Before tag
+14/09/2022 12:39:27 devpinoyLogger Returning driver
+14/09/2022 12:39:27 devpinoyLogger Entering String url
+14/09/2022 12:39:29 devpinoyLogger Returning driver
+14/09/2022 12:39:39 devpinoyLogger Returning driver
+14/09/2022 12:39:39 devpinoyLogger Returning driver
+14/09/2022 12:39:39 devpinoyLogger Article Number: 0 Headline:Live Queue grows to see Queen’s lying-in-state as coffin set to move to Westminster Hall   updates
+14/09/2022 12:39:39 devpinoyLogger Returning driver
+14/09/2022 12:39:39 devpinoyLogger Entering String url
+14/09/2022 12:39:42 devpinoyLogger Returning driver
+14/09/2022 12:39:43 devpinoyLogger Returning driver
+14/09/2022 12:39:44 devpinoyLogger Similarity Value: 0.65
+14/09/2022 12:39:44 devpinoyLogger News Source: Leinster Express
+14/09/2022 12:39:44 devpinoyLogger News Headline: Queen’s coffin to travel to Palace as King heads to Northern Ireland
+14/09/2022 12:39:44 devpinoyLogger Similarity Value: 0.63
+14/09/2022 12:39:44 devpinoyLogger News Source: TheJournal.ie
+14/09/2022 12:39:44 devpinoyLogger News Headline: Crowds gather in London as queen's coffin to go on display
+14/09/2022 12:39:45 devpinoyLogger Similarity Value: 0.7
+14/09/2022 12:39:45 devpinoyLogger News Source: Irish Daily Mirror on MSN
+14/09/2022 12:39:45 devpinoyLogger News Headline: Woman at front of queue to see Queen's coffin made 'instant decision' armed with snacks
+14/09/2022 12:39:45 devpinoyLogger Similarity Value: 0.74
+14/09/2022 12:39:45 devpinoyLogger News Source: The Sun
+14/09/2022 12:39:45 devpinoyLogger News Headline: Queen Elizabeth news: Her Majesty’s coffin now lying in state at St Giles’ cathedral as public queue to pay respects
+14/09/2022 12:39:45 devpinoyLogger Similarity Value: 0.75
+14/09/2022 12:39:45 devpinoyLogger News Source: Daily Mail
+14/09/2022 12:39:45 devpinoyLogger News Headline: JANE FRYER talks to some of the mourners who started queueing early to see the Queen lying in state
+14/09/2022 12:39:45 devpinoyLogger Returning driver
+14/09/2022 12:39:45 devpinoyLogger tearDown the Driver and browser completely
+14/09/2022 12:39:45 devpinoyLogger TearDown driver
+14/09/2022 12:39:45 devpinoyLogger Driver Closed
+14/09/2022 12:39:45 devpinoyLogger Driver SetUp through Before tag
+14/09/2022 12:39:45 devpinoyLogger SetUp driver
+14/09/2022 12:39:45 devpinoyLogger Config Properties file loaded
+14/09/2022 12:39:47 devpinoyLogger Chrome driver called
+14/09/2022 12:39:48 devpinoyLogger Driver is set
+14/09/2022 12:39:48 devpinoyLogger Driver Set through Before tag
+14/09/2022 12:39:48 devpinoyLogger Returning driver
+14/09/2022 12:39:48 devpinoyLogger Entering String url
+14/09/2022 12:39:49 devpinoyLogger Returning driver
+14/09/2022 12:39:59 devpinoyLogger Returning driver
+14/09/2022 12:39:59 devpinoyLogger Returning driver
+14/09/2022 12:39:59 devpinoyLogger Article Number: 1 Headline:Live Energy bill help for businesses will start from October even if payments have to be backdated, says No 10  UK politics
+14/09/2022 12:39:59 devpinoyLogger Returning driver
+14/09/2022 12:39:59 devpinoyLogger Entering String url
+14/09/2022 12:40:01 devpinoyLogger Returning driver
+14/09/2022 12:40:03 devpinoyLogger Returning driver
+14/09/2022 12:40:03 devpinoyLogger Similarity Value: 0.72
+14/09/2022 12:40:03 devpinoyLogger News Source: MSN
+14/09/2022 12:40:03 devpinoyLogger News Headline: EU calls for windfall tax on energy firms, saying profits must go ‘to those who need it most’ – politics live
+14/09/2022 12:40:04 devpinoyLogger Similarity Value: 0.0
+14/09/2022 12:40:04 devpinoyLogger News Source: The Irish Times
+14/09/2022 12:40:04 devpinoyLogger News Headline: Consumers to get help paying energy bills
+14/09/2022 12:40:04 devpinoyLogger Similarity Value: 0.61
+14/09/2022 12:40:04 devpinoyLogger News Source: Western People
+14/09/2022 12:40:04 devpinoyLogger News Headline: Government will help people with ‘unaffordable’ energy costs – Donohoe
+14/09/2022 12:40:04 devpinoyLogger Similarity Value: 0.0
+14/09/2022 12:40:04 devpinoyLogger News Source: Independent.ie
+14/09/2022 12:40:04 devpinoyLogger News Headline: Why it still makes sense to switch energy provider even as they all put up their prices
+14/09/2022 12:40:04 devpinoyLogger Similarity Value: 0.0
+14/09/2022 12:40:04 devpinoyLogger News Source: Limerick Leader
+14/09/2022 12:40:04 devpinoyLogger News Headline: Irish Government will help people with ‘unaffordable’ energy costs – Donohoe
+14/09/2022 12:40:04 devpinoyLogger Returning driver
+14/09/2022 12:40:04 devpinoyLogger tearDown the Driver and browser completely
+14/09/2022 12:40:04 devpinoyLogger TearDown driver
+14/09/2022 12:40:05 devpinoyLogger Driver Closed
